@@ -1,0 +1,24 @@
+{
+  "name": "piaic-line-manager-js-assignments",
+  "version": "1.0.0",
+  "description": "piaic-line-manager-js-assignments",
+  "main": "Q-02-Personal-Message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdullahTBukhari/PIAIC-Line-Manager-JS-Assignments.git"
+  },
+  "keywords": [
+    "piaic",
+    "js-assignments",
+    "line-manager"
+  ],
+  "author": "Abdullah T Bukhari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdullahTBukhari/PIAIC-Line-Manager-JS-Assignments/issues"
+  },
+  "homepage": "https://github.com/AbdullahTBukhari/PIAIC-Line-Manager-JS-Assignments#readme"
+}
