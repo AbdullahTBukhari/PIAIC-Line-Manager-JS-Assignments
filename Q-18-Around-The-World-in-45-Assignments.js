@@ -1,0 +1,10 @@
+let world = ['K-2', 'Sahara', 'Mount Everest', 'Amazon', 'North Pole'];
+console.log(world);
+console.log([...world].sort());
+console.log(world);
+console.log([...world].sort().reverse());
+console.log(world);
+console.log(world.reverse());
+console.log(world.reverse());
+console.log(world.sort());
+console.log(world.sort().reverse());
