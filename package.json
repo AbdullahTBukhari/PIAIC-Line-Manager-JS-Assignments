@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AbdullahTBukhari/PIAIC-Line-Manager-JS-Assignments/issues"
   },
-  "homepage": "https://github.com/AbdullahTBukhari/PIAIC-Line-Manager-JS-Assignments#readme"
+  "homepage": "https://github.com/AbdullahTBukhari/PIAIC-Line-Manager-JS-Assignments#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
